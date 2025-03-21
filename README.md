@@ -4,9 +4,8 @@
 <h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">
 	<img src="https://count.getloli.com/@👀 Total Profile Visits 👀?name=%F0%9F%91%80+Total+Profile+Visits+%F0%9F%91%80&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1"> <br/>
-</p>
-# 💫 About Me:
-💡 About Me<br>🎓 4th Year AI & ML Student @ NRI Institute of Technology<br>🏆 SAP Hackathon Runner's | Electron-Flow <br>🎤 Co-founder @ Innovista Club | Conducted 15+ impactful Workshops & Webinars<br>💻 Passionate about AI, Data Science, and Full-Stack Development<br>🔭 I’m currently working on Capstone Project "Automated Sentiment Analysis for Movie Reviews"<br>🌱 I’m currently learning  Advanced AI & Machine Learning  NLP, Generative AI<br>⚡ Fun fact I code for fun
+</p>💫 About Me:
+<br>🎓 4th Year AI & ML Student @ NRI Institute of Technology<br>🏆 SAP Hackathon Runner's | Electron-Flow <br>🎤 Co-founder @ Innovista Club | Conducted 15+ impactful Workshops & Webinars<br>💻 Passionate about AI, Data Science, and Full-Stack Development<br>🔭 I’m currently working on Capstone Project "Automated Sentiment Analysis for Movie Reviews"<br>🌱 I’m currently learning  Advanced AI & Machine Learning  NLP, Generative AI<br>⚡ Fun fact I code for fun
 
 
 
